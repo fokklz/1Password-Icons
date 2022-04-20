@@ -1,3 +1,5 @@
+This script is not by me, take a look at this [github](https://github.com/antipalindrome/Photoshop-Export-Layers-to-Files-Fast)
+
 # Photoshop-Export-Layers-to-Files-Fast
 
 This script allows you to export layers in your Photoshop document as individual files at a speed much faster than the built-in script from Adobe.
